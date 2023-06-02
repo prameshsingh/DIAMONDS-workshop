@@ -1,1 +1,1 @@
-# DIAMONDS-workshop
+# DIAMONDS Workshop
